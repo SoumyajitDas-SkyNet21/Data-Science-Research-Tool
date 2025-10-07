@@ -34,3 +34,17 @@ python -m venv venv
 source venv/bin/activate   # On macOS/Linux
 venv\Scripts\activate      # On Windows
 ```
+### 3️⃣ Install dependencies
+```bash
+pip install -r requirements.txt
+```
+### 4️⃣ Add your OpenAI API key
+Create a .env file in the project root and add:
+```bash
+OPENAI_API_KEY=sk-your_api_key_here
+```
+
+### 5️⃣ Run the app
+```bash
+streamlit run app.py
+```

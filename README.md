@@ -48,3 +48,4 @@ OPENAI_API_KEY=sk-your_api_key_here
 ```bash
 streamlit run app.py
 ```
+Visit the link shown in your terminal (usually http://localhost:8501).

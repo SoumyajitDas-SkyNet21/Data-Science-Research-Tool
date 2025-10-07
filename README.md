@@ -21,3 +21,8 @@ Powered by **LangChain** and **OpenAI’s GPT models**, it delivers clear, begin
 - **LangChain**  
 - **OpenAI API**  
 - **python-dotenv**
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/data-science-research-tool.git
+cd data-science-research-tool
